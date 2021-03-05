@@ -21,4 +21,4 @@ if [$COUNT -eq 0];then
 	exit3
 fi
 
-#wget -q -O - $1
+wget -q -O - $1
